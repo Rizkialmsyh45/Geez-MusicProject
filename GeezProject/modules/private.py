@@ -59,7 +59,10 @@ Ingin Menambahkan Saya ke Grup Anda? Tambahkan Saya Ke Group Anda!
                         "🛠 Source Code 🛠", url=f"https://{SOURCE_CODE}")
                 ],[
                     InlineKeyboardButton(
-                        "🎁 Donate", url=f"https://t.me/VckyouuBitch")
+                        "🎁 Donate", url=f"https://t.me/berisikbangsat")
+                ],[
+                    InlineKeyboardButton(
+                        "💥 Instagram", url=f"https://instagram.com/rizki_almsyh45") 
                 ]
             ]
         ),
@@ -171,8 +174,11 @@ async def reload(client: Client, message: Message):
                         "Group Support", url=f"https://t.me/GeezSupportGroup"
                     ),
                     InlineKeyboardButton(
-                        "Created By", url=f"https://t.me/VckyouuBitch"
-                    )
+                        "Created By", url=f"https://t.me/berisikbangsat"
+                    ), 
+                    InlineKeyboardButton(
+                        "Instagram", url=f" https://instagram.com/rizki_almsyh45"
+                    ) 
                 ]
             ]
         )
